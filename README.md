@@ -5,16 +5,17 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 2, 2017
 
 ## Student Name:  
-(First and Last Name)
+Kara Knack
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I created a GitHub account, and learned the basic add, commit, push commands. I learned about different types of
+version control systems and described what they are, the history of Git, as well as Git basics and how to set up an account.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To commit, you need to remember to have files in your project folfer. If you don't it'll say that there are no files to commit.
+2. Commiting files is just taking snapshots, and you are able to access these at any time.
+3. Version control systems are very helpful, especially because it makes it easy to determine when and where a mistake was made. 
 
